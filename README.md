@@ -1,6 +1,6 @@
-# Netflix Titles – Data Cleaning & EDA (SQL)
+# Netflix Titles – Data Cleaning & EDA (MySQL)
 
-This project focuses on **data cleaning** and **exploratory data analysis (EDA)** of the Netflix Titles dataset using **SQL**.
+This project focuses on **data cleaning** and **exploratory data analysis (EDA)** of the Netflix Titles dataset using **MySQL**.
 
 ---
 
